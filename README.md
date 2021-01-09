@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a UBC BSc Computer Science Student in third year, looking for new experiences and inspirations.
+
+Currently trying to learn HTML and JavaScript, maybe work with ReactJS.
