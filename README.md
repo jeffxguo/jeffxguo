@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 I'm a UBC BSc Computer Science Student in third year, looking for new experiences and inspirations.
 
-Currently trying to learn HTML and JavaScript, maybe work with ReactJS.
-
 Reach me at https://www.linkedin.com/in/jeffrey-guo-a42503167/
