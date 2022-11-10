@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a UBC BSc Computer Science Student in third year, looking for new experiences and inspirations.
+I'm a UBC BSc Computer Science Student in my last year, looking for new experiences and inspirations.
 
 Reach me at https://www.linkedin.com/in/jeffrey-guo-a42503167/
