@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a New Graduate from UBC with a Bachelor of Science in Computer Science, looking for new experiences and inspirations.
+I'm a Master's of Computer Science student at USC, looking for new experiences and inspirations.
 
 Reach me at https://www.linkedin.com/in/jeffrey-guo-a42503167/
